@@ -90,7 +90,10 @@ GEM
       actionview (>= 5.0.0)
       activesupport (>= 5.0.0)
 <<<<<<< HEAD
+<<<<<<< HEAD
     json (2.6.2)
+=======
+>>>>>>> 514390f8a079ca44d56ff6f3818a96310251815e
 =======
 >>>>>>> 514390f8a079ca44d56ff6f3818a96310251815e
     listen (3.7.1)
@@ -111,9 +114,12 @@ GEM
     nokogiri (1.13.8-x86_64-linux)
       racc (~> 1.4)
 <<<<<<< HEAD
+<<<<<<< HEAD
     parallel (1.22.1)
     parser (3.1.2.0)
       ast (~> 2.4.1)
+=======
+>>>>>>> 514390f8a079ca44d56ff6f3818a96310251815e
 =======
 >>>>>>> 514390f8a079ca44d56ff6f3818a96310251815e
     public_suffix (4.0.7)
@@ -154,7 +160,10 @@ GEM
       rake (>= 12.2)
       thor (~> 1.0)
 <<<<<<< HEAD
+<<<<<<< HEAD
     rainbow (3.1.1)
+=======
+>>>>>>> 514390f8a079ca44d56ff6f3818a96310251815e
 =======
 >>>>>>> 514390f8a079ca44d56ff6f3818a96310251815e
     rake (13.0.6)
@@ -163,6 +172,7 @@ GEM
       ffi (~> 1.0)
     regexp_parser (2.5.0)
     rexml (3.2.5)
+<<<<<<< HEAD
 <<<<<<< HEAD
     rubocop (1.32.0)
       json (~> 2.3)
@@ -183,6 +193,8 @@ GEM
       rack (>= 1.1)
       rubocop (>= 1.7.0, < 2.0)
     ruby-progressbar (1.11.0)
+=======
+>>>>>>> 514390f8a079ca44d56ff6f3818a96310251815e
 =======
 >>>>>>> 514390f8a079ca44d56ff6f3818a96310251815e
     rubyzip (2.3.2)
@@ -219,7 +231,10 @@ GEM
     tzinfo (2.0.5)
       concurrent-ruby (~> 1.0)
 <<<<<<< HEAD
+<<<<<<< HEAD
     unicode-display_width (2.2.0)
+=======
+>>>>>>> 514390f8a079ca44d56ff6f3818a96310251815e
 =======
 >>>>>>> 514390f8a079ca44d56ff6f3818a96310251815e
     web-console (4.2.0)
@@ -257,9 +272,12 @@ DEPENDENCIES
   rack-mini-profiler (~> 2.0)
   rails (~> 6.1.6, >= 6.1.6.1)
 <<<<<<< HEAD
+<<<<<<< HEAD
   rubocop (~> 1.26)
   rubocop-checkstyle_formatter
   rubocop-rails (~> 2.14.0)
+=======
+>>>>>>> 514390f8a079ca44d56ff6f3818a96310251815e
 =======
 >>>>>>> 514390f8a079ca44d56ff6f3818a96310251815e
   sass-rails (>= 6)
@@ -274,7 +292,11 @@ DEPENDENCIES
 
 RUBY VERSION
 <<<<<<< HEAD
+<<<<<<< HEAD
    ruby 3.1.2p20
+=======
+   ruby 2.7.0p0
+>>>>>>> 514390f8a079ca44d56ff6f3818a96310251815e
 =======
    ruby 2.7.0p0
 >>>>>>> 514390f8a079ca44d56ff6f3818a96310251815e
