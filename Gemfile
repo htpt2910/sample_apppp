@@ -46,6 +46,7 @@ end
 
 group :test do
   # Adds support for Capybara system testing and selenium driver
+<<<<<<< HEAD
   gem "capybara", ">= 3.26"
   gem "selenium-webdriver", ">= 4.0.0.rc1"
   # Easy installation and use of web drivers to run system tests with browsers
@@ -60,3 +61,13 @@ group :development, :test do # Với phiên bản ruby 3.0 và rails 6 trở lê
   gem "rubocop-checkstyle_formatter", require: false
   gem "rubocop-rails", "~> 2.14.0", require: false
 end
+=======
+  gem 'capybara', '>= 3.26'
+  gem 'selenium-webdriver', '>= 4.0.0.rc1'
+  # Easy installation and use of web drivers to run system tests with browsers
+  gem 'webdrivers'
+end
+
+# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+>>>>>>> 514390f8a079ca44d56ff6f3818a96310251815e
